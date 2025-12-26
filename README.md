@@ -1,1 +1,1 @@
-## Assignment 5 : Ecommers Project
+## Assignment 5 : Ecommerce Project
